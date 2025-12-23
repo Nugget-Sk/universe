@@ -1,1 +1,1 @@
-# Adventurer's Universe branch containing all the changes made to the modpack of the same name.
+# Adventurer's Universe branch containing all the changes made to the modpack of the same name. You can find more info [here](https://github.com/Nugget-Sk/universe/blob/main/Adventurer's%20Universe/main.md)
