@@ -1,1 +1,1 @@
-# universe
+# Adventurer's Universe branch containing all the changes made to the modpack of the same name.
