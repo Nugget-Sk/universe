@@ -23,7 +23,8 @@
       ],
       "tags": [
         "explorer:netherite"
-      ]
+      ],
+      "borderType": "auto_gradient"
     },
     {
       "texture": "tooltipoverhaul:textures/overlay/demonic_frame.png",
