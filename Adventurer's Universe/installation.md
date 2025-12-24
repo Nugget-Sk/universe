@@ -10,3 +10,7 @@
 ### Required Files
     - Latest modrinth.mrpack file
 ### Installation
+    - Click Add Instance.
+    - Click Import.
+    - Click Browse Button.
+    - Find your .mrpack file
