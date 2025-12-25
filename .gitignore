@@ -1,0 +1,45 @@
+############################
+# Minecraft Folder Ignores #
+############################
+
+# Spicy Data
+/minecraft/options.txt
+/minecraft/identities.dat
+/minecraft/irisUpdateInfo.json
+/minecraft/patchouli_data.json
+/minecraft/polymer-resourcepack.zip
+/minecraft/rhino.local.properties
+/minecraft/shaderpacks/ComplementaryUnbound_r5.3.zip.txt
+/minecraft/usernamecache.json
+/minecraft/usercache.json
+/minecraft/emi.json
+/minecraft/options.amecsapi.txt
+/minecraft/servers.dat_old
+
+# Useless Folders
+/minecraft/texturepacks
+/minecraft/screenshots
+/minecraft/logs
+/minecraft/saves
+
+# KubeJS
+/minecraft/kubejs/README.txt
+
+# Mod Stuff
+/minecraft/cache
+/minecraft/.fabric
+/minecraft/.mixin.out
+/minecraft/coremods
+/minecraft/xaero
+/minecraft/XaeroWaypoints_BACKUP240807
+/minecraft/data
+/minecraft/defaultconfigs
+/minecraft/fancymenu_data
+/minecraft/frozenlib_cape_cache
+/minecraft/patchouli_books
+/minecraft/schematics
+/minecraft/server-resource-packs
+/minecraft/local
+/minecraft/crash-reports
+/minecraft/better_quest_popup
+/minecraft/.bobby

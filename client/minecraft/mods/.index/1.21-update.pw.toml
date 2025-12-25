@@ -1,0 +1,16 @@
+filename = 'tricky_trials-1.7.0-forge-1.20.1.jar'
+name = '1.21 update | Tricky Trials'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cc4b9f2c9528342f6931eecafcb2331dd63ff600b5198d6cd03d2ac74baa74120005990cce4c8ed995c80d6a758da4808d2d52c9e2f5d296efb11d10a3a5e41a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tfIEEV4w/versions/1FirTP7m/tricky_trials-1.7.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'tfIEEV4w'
+version = '1FirTP7m'

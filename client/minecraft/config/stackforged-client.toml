@@ -1,0 +1,14 @@
+
+["Sort Button GUI"]
+	#The initial X position of the sort button.
+	buttonX = 10
+	#The initial Y position of the sort button.
+	buttonY = 10
+
+["Sorting Logic"]
+	#The radius (in blocks) to search for chests around the player.
+	#Range: 1 ~ 32
+	sortRadius = 8
+	#Whether to include the player's hotbar in the sorting process.
+	sortHotbar = false
+
