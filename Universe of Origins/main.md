@@ -25,4 +25,4 @@
 ## File downloading fails/errors
 - [Minimal Version Alt Link](https://drive.google.com/file/d/1SU4LaKQlmj9g8t0-VNfpkyZ4tG_Gwh6V/view?usp=sharing)
 - [Regular Version Alt Link](https://drive.google.com/file/d/19lXikd7CXG4wR1GRcYM2Wau4t1ZmRWMA/view?usp=sharing)
-# [Click me to go back](https://github.com/Nugget-Sk/universe/blob/main/README.md)
+# [Click me to go back](https://github.com/Nugget-Sk/universe/tree/main)
