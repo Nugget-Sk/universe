@@ -1,5 +1,12 @@
-# The repo of the universe
-Different parts of the repo are split as below
-- [Universe of Origins](https://github.com/Nugget-Sk/universe/blob/main/Universe%20of%20Origins/main.md)
-- [Adventurer's Universe](https://github.com/Nugget-Sk/universe/blob/main/Adventurer's%20Universe/main.md)
-- Traveler's Universe
+# Traveler's Universe
+
+## Description
+- A modpack centered around being vanilla and exploration
+
+## Organization
+- This branch includes
+    - client
+    - server
+    - modpack file
+
+## Return Button
