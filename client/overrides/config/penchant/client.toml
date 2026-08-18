@@ -1,0 +1,11 @@
+# Whether enchantment progress should always be shown regardless of keypress
+# default: false
+alwaysShowTooltipProgress = false
+# If the hint for showing enchantment progress with keybind should be shown
+# Does nothing if Always Show Progress is enabled
+# default: true
+showTooltipKeyHint = true
+# Width of enchantment progress bar
+# range: 4 - 128
+# default: 32
+barWidth = 32

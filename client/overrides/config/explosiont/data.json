@@ -1,0 +1,4 @@
+{
+    "filter": [ "minecraft:bedrock" ],
+    "dimension_filter": [ "minecraft:dimension_name" ]
+}

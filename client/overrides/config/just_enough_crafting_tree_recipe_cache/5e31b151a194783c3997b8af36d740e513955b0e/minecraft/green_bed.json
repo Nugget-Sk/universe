@@ -1,0 +1,716 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_dye"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:red_bed",
+            "minecraft:yellow_bed",
+            "minecraft:white_bed"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_dye"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:red_bed",
+            "minecraft:yellow_bed",
+            "minecraft:white_bed"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Villager Trades",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:loom",
+            "minecraft:loom",
+            "minecraft:loom",
+            "minecraft:loom"
+          ]
+        },
+        {
+          "countPerCraft": 18,
+          "options": [
+            "minecraft:white_wool",
+            "minecraft:brown_wool",
+            "minecraft:black_wool",
+            "minecraft:gray_wool",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 12,
+          "options": [
+            "minecraft:white_dye",
+            "minecraft:gray_dye",
+            "minecraft:black_dye",
+            "minecraft:light_blue_dye",
+            "minecraft:lime_dye",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 12,
+          "options": [
+            "minecraft:yellow_dye",
+            "minecraft:light_gray_dye",
+            "minecraft:orange_dye",
+            "minecraft:red_dye",
+            "minecraft:pink_dye",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 12,
+          "options": [
+            "minecraft:brown_dye",
+            "minecraft:purple_dye",
+            "minecraft:blue_dye",
+            "minecraft:green_dye",
+            "minecraft:magenta_dye",
+            "minecraft:cyan_dye",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 2,
+          "options": [
+            "minecraft:emerald"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Automated Shapeless Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_dye"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:red_bed",
+            "minecraft:yellow_bed",
+            "minecraft:white_bed"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_mixer",
+            "create:basin",
+            "createcasing:brass_mixer",
+            "createcasing:copper_mixer",
+            "createcasing:railway_mixer",
+            "createcasing:shadow_steel_mixer",
+            "createcasing:refined_radiance_mixer",
+            "createcasing:creative_mixer",
+            "createcasing:industrial_iron_mixer",
+            "createcasing:weathered_iron_mixer",
+            "createarscompact:source_mechanical_mixer"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:green_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks",
+            "hexerei:mahogany_planks",
+            "hexerei:mahogany_connected",
+            "hexerei:polished_mahogany_planks",
+            "hexerei:polished_mahogany_connected",
+            "hexerei:polished_mahogany_layered",
+            "hexerei:polished_mahogany_pillar",
+            "hexerei:willow_planks",
+            "hexerei:willow_connected",
+            "hexerei:polished_willow_planks",
+            "hexerei:polished_willow_connected",
+            "hexerei:polished_willow_layered",
+            "hexerei:polished_willow_pillar",
+            "hexerei:witch_hazel_planks",
+            "hexerei:witch_hazel_connected",
+            "hexerei:polished_witch_hazel_planks",
+            "hexerei:polished_witch_hazel_connected",
+            "hexerei:polished_witch_hazel_layered",
+            "hexerei:polished_witch_hazel_pillar",
+            "ars_nouveau:archwood_planks"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

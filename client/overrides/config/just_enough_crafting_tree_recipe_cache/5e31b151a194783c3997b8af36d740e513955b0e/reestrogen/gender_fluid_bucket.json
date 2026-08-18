@@ -1,0 +1,47 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Mystical Transformation",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:essence_of_pride"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:purified_water_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Filling by Spout",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:spout",
+            "createcasing:andesite_spout",
+            "createcasing:brass_spout",
+            "createcasing:zinc_spout"
+          ]
+        }
+      ]
+    }
+  ]
+}

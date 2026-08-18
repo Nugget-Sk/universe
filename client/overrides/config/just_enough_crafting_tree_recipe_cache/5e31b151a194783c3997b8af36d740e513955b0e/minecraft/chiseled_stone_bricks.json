@@ -1,0 +1,297 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_brick_slab"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_brick_slab"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Stonecutting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stonecutter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Stonecutting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_bricks"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stonecutter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_brick_slab"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_brick_slab"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Villager Trades",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stonecutter",
+            "minecraft:stonecutter",
+            "minecraft:stonecutter",
+            "minecraft:stonecutter"
+          ]
+        },
+        {
+          "countPerCraft": 10,
+          "options": [
+            "minecraft:clay_ball",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 20,
+          "options": [
+            "minecraft:stone",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 16,
+          "options": [
+            "minecraft:granite",
+            "minecraft:andesite",
+            "minecraft:diorite",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 12,
+          "options": [
+            "minecraft:quartz",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Block Cutting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_bricks"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_saw",
+            "createcasing:brass_mechanical_saw",
+            "createcasing:copper_mechanical_saw",
+            "createcasing:railway_mechanical_saw",
+            "createcasing:shadow_steel_mechanical_saw",
+            "createcasing:refined_radiance_mechanical_saw",
+            "createcasing:creative_mechanical_saw",
+            "createcasing:industrial_iron_mechanical_saw",
+            "createcasing:weathered_iron_mechanical_saw",
+            "createarscompact:source_mechanical_saw"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Block Cutting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_saw",
+            "createcasing:brass_mechanical_saw",
+            "createcasing:copper_mechanical_saw",
+            "createcasing:railway_mechanical_saw",
+            "createcasing:shadow_steel_mechanical_saw",
+            "createcasing:refined_radiance_mechanical_saw",
+            "createcasing:creative_mechanical_saw",
+            "createcasing:industrial_iron_mechanical_saw",
+            "createcasing:weathered_iron_mechanical_saw",
+            "createarscompact:source_mechanical_saw"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_brick_slab"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stone_brick_slab"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

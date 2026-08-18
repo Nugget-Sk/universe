@@ -1,0 +1,452 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_bed",
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:green_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:white_bed",
+            "minecraft:yellow_bed"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:lodestone"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Filling",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:lodestone"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Filling",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_bed",
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:green_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:white_bed",
+            "minecraft:yellow_bed"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_bed",
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:green_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:white_bed",
+            "minecraft:yellow_bed"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:lodestone"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mystical Transformation",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_bed",
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:green_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:white_bed",
+            "minecraft:yellow_bed"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Mystical Transformation",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:lodestone"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Automated Shapeless Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_bed",
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:green_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:white_bed",
+            "minecraft:yellow_bed"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_mixer",
+            "create:basin",
+            "createcasing:brass_mixer",
+            "createcasing:copper_mixer",
+            "createcasing:railway_mixer",
+            "createcasing:shadow_steel_mixer",
+            "createcasing:refined_radiance_mixer",
+            "createcasing:creative_mixer",
+            "createcasing:industrial_iron_mixer",
+            "createcasing:weathered_iron_mixer",
+            "createarscompact:source_mechanical_mixer"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shapeless Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:lodestone"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_mixer",
+            "create:basin",
+            "createcasing:brass_mixer",
+            "createcasing:copper_mixer",
+            "createcasing:railway_mixer",
+            "createcasing:shadow_steel_mixer",
+            "createcasing:refined_radiance_mixer",
+            "createcasing:creative_mixer",
+            "createcasing:industrial_iron_mixer",
+            "createcasing:weathered_iron_mixer",
+            "createarscompact:source_mechanical_mixer"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Filling by Spout",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:lodestone"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:spout",
+            "createcasing:andesite_spout",
+            "createcasing:brass_spout",
+            "createcasing:zinc_spout"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Filling by Spout",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_bed",
+            "minecraft:black_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:cyan_bed",
+            "minecraft:gray_bed",
+            "minecraft:green_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:lime_bed",
+            "minecraft:magenta_bed",
+            "minecraft:orange_bed",
+            "minecraft:pink_bed",
+            "minecraft:purple_bed",
+            "minecraft:white_bed",
+            "minecraft:yellow_bed"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:spout",
+            "createcasing:andesite_spout",
+            "createcasing:brass_spout",
+            "createcasing:zinc_spout"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Information",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:savepoint"
+          ]
+        }
+      ],
+      "stationSlots": []
+    }
+  ]
+}

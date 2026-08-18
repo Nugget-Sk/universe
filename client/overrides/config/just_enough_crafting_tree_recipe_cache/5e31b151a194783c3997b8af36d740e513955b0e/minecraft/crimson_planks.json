@@ -1,0 +1,252 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crimson_door",
+            "minecraft:crimson_trapdoor",
+            "minecraft:crimson_sign",
+            "minecraft:crimson_hanging_sign",
+            "minecraft:crimson_fence",
+            "minecraft:crimson_fence_gate",
+            "minecraft:crimson_pressure_plate",
+            "minecraft:crimson_button",
+            "farmersdelight:crimson_cabinet"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_crimson_stem"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_crimson_hyphae"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting Board",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:wooden_axe",
+            "minecraft:stone_axe",
+            "minecraft:golden_axe",
+            "minecraft:iron_axe",
+            "minecraft:diamond_axe",
+            "minecraft:netherite_axe",
+            "ars_nouveau:enchanters_gauntlet"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crimson_door",
+            "minecraft:crimson_trapdoor",
+            "minecraft:crimson_sign",
+            "minecraft:crimson_hanging_sign",
+            "minecraft:crimson_fence",
+            "minecraft:crimson_fence_gate",
+            "minecraft:crimson_pressure_plate",
+            "minecraft:crimson_button",
+            "farmersdelight:crimson_cabinet"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:cutting_board"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sawing",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_crimson_stem"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_saw",
+            "createcasing:brass_mechanical_saw",
+            "createcasing:copper_mechanical_saw",
+            "createcasing:railway_mechanical_saw",
+            "createcasing:shadow_steel_mechanical_saw",
+            "createcasing:refined_radiance_mechanical_saw",
+            "createcasing:creative_mechanical_saw",
+            "createcasing:industrial_iron_mechanical_saw",
+            "createcasing:weathered_iron_mechanical_saw",
+            "createarscompact:source_mechanical_saw"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sawing",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_crimson_hyphae"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_saw",
+            "createcasing:brass_mechanical_saw",
+            "createcasing:copper_mechanical_saw",
+            "createcasing:railway_mechanical_saw",
+            "createcasing:shadow_steel_mechanical_saw",
+            "createcasing:refined_radiance_mechanical_saw",
+            "createcasing:creative_mechanical_saw",
+            "createcasing:industrial_iron_mechanical_saw",
+            "createcasing:weathered_iron_mechanical_saw",
+            "createarscompact:source_mechanical_saw"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:beetroot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:essence_of_pride"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_dye"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Milling",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:beetroot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:millstone"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Milling",
+      "outputCount": 3,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:millstone"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Milling",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:millstone"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Milling",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:millstone"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting Board Slicing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:spider_eye"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting Board Slicing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting Board Slicing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:sweet_berries"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting Board Slicing",
+      "outputCount": 3,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting Board Slicing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:beetroot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:essence_of_pride"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_dye"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crush Glyph",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "ars_nouveau:glyph_crush"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crush Glyph",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "ars_nouveau:glyph_crush"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crush Glyph",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "ars_nouveau:glyph_crush"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crush Glyph",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:beetroot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "ars_nouveau:glyph_crush"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:wild_beetroots"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:beetroot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 3,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Villager Trades",
+      "outputCount": 3,
+      "inputSlots": [
+        {
+          "countPerCraft": 6,
+          "options": [
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting Board",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:flint_knife",
+            "farmersdelight:iron_knife",
+            "farmersdelight:diamond_knife",
+            "farmersdelight:netherite_knife",
+            "farmersdelight:golden_knife",
+            "arsdelight:enchanters_knife",
+            "moredelight:wooden_knife",
+            "moredelight:stone_knife",
+            "refurbished_furniture:knife"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:wild_beetroots"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:cutting_board"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting Board",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:flint_knife",
+            "farmersdelight:iron_knife",
+            "farmersdelight:diamond_knife",
+            "farmersdelight:netherite_knife",
+            "farmersdelight:golden_knife",
+            "arsdelight:enchanters_knife",
+            "moredelight:wooden_knife",
+            "moredelight:stone_knife",
+            "refurbished_furniture:knife"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:cutting_board"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting Board",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:flint_knife",
+            "farmersdelight:iron_knife",
+            "farmersdelight:diamond_knife",
+            "farmersdelight:netherite_knife",
+            "farmersdelight:golden_knife",
+            "arsdelight:enchanters_knife",
+            "moredelight:wooden_knife",
+            "moredelight:stone_knife",
+            "refurbished_furniture:knife"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:cutting_board"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Slicing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:spider_eye"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "refurbished_furniture:knife"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Slicing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "refurbished_furniture:knife"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Slicing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:sweet_berries"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "refurbished_furniture:knife"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Slicing",
+      "outputCount": 3,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "refurbished_furniture:knife"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Slicing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "refurbished_furniture:knife"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Milling",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:wild_beetroots"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:millstone"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shapeless Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:essence_of_pride"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_dye"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_mixer",
+            "create:basin",
+            "createcasing:brass_mixer",
+            "createcasing:copper_mixer",
+            "createcasing:railway_mixer",
+            "createcasing:shadow_steel_mixer",
+            "createcasing:refined_radiance_mixer",
+            "createcasing:creative_mixer",
+            "createcasing:industrial_iron_mixer",
+            "createcasing:weathered_iron_mixer",
+            "createarscompact:source_mechanical_mixer"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:beetroot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:poppy"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:rose_bush"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_tulip"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

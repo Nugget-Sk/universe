@@ -1,0 +1,449 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_2",
+            "reestrogen:prideblossom_3",
+            "reestrogen:prideblossom_10",
+            "reestrogen:prideblossom_11",
+            "reestrogen:prideblossom_12",
+            "reestrogen:random_prideblossom",
+            "reestrogen:prideblossom_8",
+            "reestrogen:prideblossom_9",
+            "reestrogen:prideblossom",
+            "reestrogen:prideblossom_4",
+            "reestrogen:prideblossom_5",
+            "reestrogen:prideblossom_6",
+            "reestrogen:prideblossom_7"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_shrub"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_shrub"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_2",
+            "reestrogen:prideblossom_3",
+            "reestrogen:prideblossom_10",
+            "reestrogen:prideblossom_11",
+            "reestrogen:prideblossom_12",
+            "reestrogen:random_prideblossom",
+            "reestrogen:prideblossom_8",
+            "reestrogen:prideblossom_9",
+            "reestrogen:prideblossom",
+            "reestrogen:prideblossom_4",
+            "reestrogen:prideblossom_5",
+            "reestrogen:prideblossom_6",
+            "reestrogen:prideblossom_7"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Milling",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_2",
+            "reestrogen:prideblossom_3",
+            "reestrogen:prideblossom_10",
+            "reestrogen:prideblossom_11",
+            "reestrogen:prideblossom_12",
+            "reestrogen:random_prideblossom",
+            "reestrogen:prideblossom_8",
+            "reestrogen:prideblossom_9",
+            "reestrogen:prideblossom",
+            "reestrogen:prideblossom_4",
+            "reestrogen:prideblossom_5",
+            "reestrogen:prideblossom_6",
+            "reestrogen:prideblossom_7"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:millstone"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Milling",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_shrub"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:millstone"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 3,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_shrub"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_2",
+            "reestrogen:prideblossom_3",
+            "reestrogen:prideblossom_10",
+            "reestrogen:prideblossom_11",
+            "reestrogen:prideblossom_12",
+            "reestrogen:random_prideblossom",
+            "reestrogen:prideblossom_8",
+            "reestrogen:prideblossom_9",
+            "reestrogen:prideblossom",
+            "reestrogen:prideblossom_4",
+            "reestrogen:prideblossom_5",
+            "reestrogen:prideblossom_6",
+            "reestrogen:prideblossom_7"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_2",
+            "reestrogen:prideblossom_3",
+            "reestrogen:prideblossom_10",
+            "reestrogen:prideblossom_11",
+            "reestrogen:prideblossom_12",
+            "reestrogen:random_prideblossom",
+            "reestrogen:prideblossom_8",
+            "reestrogen:prideblossom_9",
+            "reestrogen:prideblossom",
+            "reestrogen:prideblossom_4",
+            "reestrogen:prideblossom_5",
+            "reestrogen:prideblossom_6",
+            "reestrogen:prideblossom_7"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_shrub"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting Board",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:flint_knife",
+            "farmersdelight:iron_knife",
+            "farmersdelight:diamond_knife",
+            "farmersdelight:golden_knife",
+            "farmersdelight:netherite_knife",
+            "refurbished_furniture:knife",
+            "arsdelight:enchanters_knife",
+            "moredelight:wooden_knife",
+            "moredelight:stone_knife"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_shrub"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:cutting_board"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting Board",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:flint_knife",
+            "farmersdelight:iron_knife",
+            "farmersdelight:diamond_knife",
+            "farmersdelight:golden_knife",
+            "farmersdelight:netherite_knife",
+            "refurbished_furniture:knife",
+            "arsdelight:enchanters_knife",
+            "moredelight:wooden_knife",
+            "moredelight:stone_knife"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_2",
+            "reestrogen:prideblossom_3",
+            "reestrogen:prideblossom_10",
+            "reestrogen:prideblossom_11",
+            "reestrogen:prideblossom_12",
+            "reestrogen:random_prideblossom",
+            "reestrogen:prideblossom_8",
+            "reestrogen:prideblossom_9",
+            "reestrogen:prideblossom",
+            "reestrogen:prideblossom_4",
+            "reestrogen:prideblossom_5",
+            "reestrogen:prideblossom_6",
+            "reestrogen:prideblossom_7"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:cutting_board"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_2",
+            "reestrogen:prideblossom_3",
+            "reestrogen:prideblossom_10",
+            "reestrogen:prideblossom_11",
+            "reestrogen:prideblossom_12",
+            "reestrogen:random_prideblossom",
+            "reestrogen:prideblossom_8",
+            "reestrogen:prideblossom_9",
+            "reestrogen:prideblossom",
+            "reestrogen:prideblossom_4",
+            "reestrogen:prideblossom_5",
+            "reestrogen:prideblossom_6",
+            "reestrogen:prideblossom_7"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 2,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:prideblossom_shrub"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

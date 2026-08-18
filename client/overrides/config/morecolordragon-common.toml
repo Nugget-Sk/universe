@@ -1,0 +1,7 @@
+[Genetics]
+	#If true, naturally spawned dragons can get any color from any element (e.g. fire can get ice colors).
+	disableElementCheck = false
+	#The probability (0-100%) that a baby inherits a gene from its parents. 0% means full random mutations.
+	# Default: 100
+	# Range: 0 ~ 100
+	geneInfluenceStrength = 100

@@ -1,0 +1,194 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:water_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:fluid_filter",
+            "reestrogen:sponge_filter"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:water_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:fluid_filter",
+            "reestrogen:sponge_filter"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fluid Filtering",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:fluid_filter"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:water_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Fluid Filtering",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:sponge_filter"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:water_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Filling by Spout",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:spout",
+            "createcasing:andesite_spout",
+            "createcasing:brass_spout",
+            "createcasing:zinc_spout"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:water_bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:fluid_filter",
+            "reestrogen:sponge_filter"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:bucket"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

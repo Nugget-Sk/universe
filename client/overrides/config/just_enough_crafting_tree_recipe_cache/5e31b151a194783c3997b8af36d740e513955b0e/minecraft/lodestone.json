@@ -1,0 +1,142 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:chiseled_stone_bricks"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

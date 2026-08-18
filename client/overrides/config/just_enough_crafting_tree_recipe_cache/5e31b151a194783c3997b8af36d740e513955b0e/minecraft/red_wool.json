@@ -1,0 +1,292 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_dye"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:black_wool",
+            "minecraft:blue_wool",
+            "minecraft:brown_wool",
+            "minecraft:cyan_wool",
+            "minecraft:gray_wool",
+            "minecraft:green_wool",
+            "minecraft:light_blue_wool",
+            "minecraft:light_gray_wool",
+            "minecraft:lime_wool",
+            "minecraft:magenta_wool",
+            "minecraft:orange_wool",
+            "minecraft:pink_wool",
+            "minecraft:purple_wool",
+            "minecraft:yellow_wool",
+            "minecraft:white_wool"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_dye"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:black_wool",
+            "minecraft:blue_wool",
+            "minecraft:brown_wool",
+            "minecraft:cyan_wool",
+            "minecraft:gray_wool",
+            "minecraft:green_wool",
+            "minecraft:light_blue_wool",
+            "minecraft:light_gray_wool",
+            "minecraft:lime_wool",
+            "minecraft:magenta_wool",
+            "minecraft:orange_wool",
+            "minecraft:pink_wool",
+            "minecraft:purple_wool",
+            "minecraft:yellow_wool",
+            "minecraft:white_wool"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Villager Trades",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:loom",
+            "minecraft:loom",
+            "minecraft:loom",
+            "minecraft:loom"
+          ]
+        },
+        {
+          "countPerCraft": 18,
+          "options": [
+            "minecraft:white_wool",
+            "minecraft:brown_wool",
+            "minecraft:black_wool",
+            "minecraft:gray_wool",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 12,
+          "options": [
+            "minecraft:white_dye",
+            "minecraft:gray_dye",
+            "minecraft:black_dye",
+            "minecraft:light_blue_dye",
+            "minecraft:lime_dye",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 12,
+          "options": [
+            "minecraft:yellow_dye",
+            "minecraft:light_gray_dye",
+            "minecraft:orange_dye",
+            "minecraft:red_dye",
+            "minecraft:pink_dye",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 12,
+          "options": [
+            "minecraft:brown_dye",
+            "minecraft:purple_dye",
+            "minecraft:blue_dye",
+            "minecraft:green_dye",
+            "minecraft:magenta_dye",
+            "minecraft:cyan_dye",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald",
+            "minecraft:emerald"
+          ]
+        },
+        {
+          "countPerCraft": 2,
+          "options": [
+            "minecraft:emerald"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Automated Shapeless Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:red_dye"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:black_wool",
+            "minecraft:blue_wool",
+            "minecraft:brown_wool",
+            "minecraft:cyan_wool",
+            "minecraft:gray_wool",
+            "minecraft:green_wool",
+            "minecraft:light_blue_wool",
+            "minecraft:light_gray_wool",
+            "minecraft:lime_wool",
+            "minecraft:magenta_wool",
+            "minecraft:orange_wool",
+            "minecraft:pink_wool",
+            "minecraft:purple_wool",
+            "minecraft:yellow_wool",
+            "minecraft:white_wool"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_mixer",
+            "create:basin",
+            "createcasing:brass_mixer",
+            "createcasing:copper_mixer",
+            "createcasing:railway_mixer",
+            "createcasing:shadow_steel_mixer",
+            "createcasing:refined_radiance_mixer",
+            "createcasing:creative_mixer",
+            "createcasing:industrial_iron_mixer",
+            "createcasing:weathered_iron_mixer",
+            "createarscompact:source_mechanical_mixer"
+          ]
+        }
+      ]
+    }
+  ]
+}

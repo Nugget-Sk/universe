@@ -1,0 +1,15 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:totem_of_undying"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_connected:music_disc_elevator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_connected:music_disc_interlude"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"plushables:plushable_statuette"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"terra_curio:cell_phone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createarscompact:source_mechanical_drill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createarscompact:source_mechanical_saw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hexerei:mahogany_broom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hexerei:willow_broom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hexerei:witch_hazel_broom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwwindows:hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:novice_spell_book"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

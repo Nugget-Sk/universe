@@ -1,0 +1,391 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 9,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_block"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Smelting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:netherite_feather"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:furnace"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Blasting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:netherite_feather"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:blast_furnace"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 9,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_block"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bulk Blasting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:netherite_feather"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:encased_fan",
+            "createcasing:brass_encased_fan",
+            "createcasing:copper_encased_fan",
+            "createcasing:railway_encased_fan",
+            "createcasing:shadow_steel_encased_fan",
+            "createcasing:refined_radiance_encased_fan",
+            "createcasing:creative_encased_fan",
+            "createcasing:industrial_iron_encased_fan",
+            "createcasing:weathered_iron_encased_fan"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:netherite_ring"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:bejeweled_netherite_ring"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crushing",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:netherite_feather"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:crushing_wheel"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shapeless Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 4,
+          "options": [
+            "minecraft:netherite_scrap"
+          ]
+        },
+        {
+          "countPerCraft": 4,
+          "options": [
+            "minecraft:gold_ingot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_mixer",
+            "create:basin",
+            "createcasing:brass_mixer",
+            "createcasing:copper_mixer",
+            "createcasing:railway_mixer",
+            "createcasing:shadow_steel_mixer",
+            "createcasing:refined_radiance_mixer",
+            "createcasing:creative_mixer",
+            "createcasing:industrial_iron_mixer",
+            "createcasing:weathered_iron_mixer",
+            "createarscompact:source_mechanical_mixer"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 9,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:netherite_block"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

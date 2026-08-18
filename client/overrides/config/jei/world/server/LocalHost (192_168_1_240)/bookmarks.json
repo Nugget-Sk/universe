@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:elytra","components":"{\"minecraft:custom_data\":{stellarity.special_item:\"phantom_wings\"},\"minecraft:custom_model_data\":90002,\"minecraft:damage\":56,\"minecraft:enchantments\":{levels:{\"minecraft:unbreaking\":2,\"stellarity:soaring\":4}},\"minecraft:item_name\":\u0027{\"color\":\"yellow\",\"fallback\":\"Phantom Wings\",\"italic\":false,\"translate\":\"stellarity.items.elytra.phantom_wings\"}\u0027,\"minecraft:lore\":[\u0027\"\"\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"They leave a lot to wish for...\",\"italic\":false,\"translate\":\"stellarity.items.elytra.phantom_wings.description.1\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#CC26FF\",\"italic\":true,\"translate\":\"Stellarity\"}\u0027],\"minecraft:max_damage\":70,\"penchant:enchantment_progress\":{\"minecraft:unbreaking\":51}}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

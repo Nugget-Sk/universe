@@ -1,0 +1,730 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Emptying",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:withers_breath_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Emptying",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:estrodial_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Emptying",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:purified_water_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Emptying",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:testosterone_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Emptying",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:spironolactone_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Emptying",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Emptying",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:progesterone_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:water_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:lava_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:milk_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "hexerei:blood_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "hexerei:tallow_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "hexerei:quicksilver_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "aeronautics:levitite_blend_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:honey_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:chocolate_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:withers_breath_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:estrodial_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:purified_water_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:testosterone_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:spironolactone_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:gender_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Item Draining",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:progesterone_fluid_bucket"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:item_drain",
+            "createcasing:andesite_item_drain",
+            "createcasing:brass_item_drain",
+            "createcasing:zinc_item_drain"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "reestrogen:surgical_steel_nugget"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:iron_ingot"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}

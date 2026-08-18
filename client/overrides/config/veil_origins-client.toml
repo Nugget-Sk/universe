@@ -1,0 +1,30 @@
+["HUD Settings"]
+	#Settings for the origin HUD overlay.
+	#These settings only affect the client-side display.
+	#Use Unicode symbols (✓, ✗, ⚡) in the HUD.
+	#Set to false to use ASCII fallbacks (!, X, ^) if symbols don't render correctly.
+	useUnicodeSymbols = true
+	#Show the origin info panel (name, level, XP) on the screen.
+	showOriginHud = true
+	#Show ability cooldown indicators on the screen.
+	showAbilityIndicators = true
+	#Show the origin resource bar (blood, heat, hydration, etc.).
+	showResourceBar = true
+	#Show the origin XP bar in the origin info panel.
+	showXpBar = true
+	#Show passive ability indicators (e.g., double jump ready state).
+	showPassiveIndicators = true
+	#Show cooldown overlay animations on ability indicators.
+	showCooldownOverlays = true
+	#Show keybind hints next to ability indicators.
+	showKeybindHints = true
+	#Opacity of HUD elements (0-100, where 100 is fully opaque).
+	# Default: 100
+	# Range: 0 ~ 100
+	hudOpacity = 100
+	#Position of the origin info panel on the screen.
+	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+	originInfoPosition = "TOP_LEFT"
+	#Position of the ability indicators on the screen.
+	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+	abilityIndicatorsPosition = "BOTTOM_RIGHT"

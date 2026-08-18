@@ -1,0 +1,9 @@
+{
+  "recipePreference": {
+    "minecraft:totem_of_undying": 1
+  },
+  "ingredientPreference": {},
+  "expandedPreference": {},
+  "naturalAllow": [],
+  "naturalDeny": []
+}

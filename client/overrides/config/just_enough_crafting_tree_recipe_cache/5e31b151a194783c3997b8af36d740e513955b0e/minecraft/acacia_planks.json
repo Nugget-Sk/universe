@@ -1,0 +1,342 @@
+{
+  "formatVersion": 4,
+  "candidates": [
+    {
+      "label": "Crafting",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:acacia_door",
+            "minecraft:acacia_trapdoor",
+            "minecraft:acacia_sign",
+            "minecraft:acacia_hanging_sign",
+            "minecraft:acacia_fence",
+            "minecraft:acacia_fence_gate",
+            "minecraft:acacia_pressure_plate",
+            "minecraft:acacia_button",
+            "minecraft:acacia_boat",
+            "farmersdelight:acacia_cabinet"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_acacia_log"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Cutting",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_acacia_wood"
+          ]
+        }
+      ],
+      "stationSlots": []
+    },
+    {
+      "label": "Crafting",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        },
+        {
+          "countPerCraft": 1,
+          "options": []
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:crafting_table",
+            "minecraft:crafter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Woodcutter",
+      "outputCount": 5,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:acacia_log"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "hexerei:willow_woodcutter",
+            "hexerei:mahogany_woodcutter",
+            "hexerei:witch_hazel_woodcutter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Woodcutter",
+      "outputCount": 5,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_acacia_log"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "hexerei:willow_woodcutter",
+            "hexerei:mahogany_woodcutter",
+            "hexerei:witch_hazel_woodcutter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Woodcutter",
+      "outputCount": 5,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_acacia_wood"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "hexerei:willow_woodcutter",
+            "hexerei:mahogany_woodcutter",
+            "hexerei:witch_hazel_woodcutter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Woodcutter",
+      "outputCount": 5,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:acacia_wood"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "hexerei:willow_woodcutter",
+            "hexerei:mahogany_woodcutter",
+            "hexerei:witch_hazel_woodcutter"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Cutting Board",
+      "outputCount": 1,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:wooden_axe",
+            "minecraft:stone_axe",
+            "minecraft:golden_axe",
+            "minecraft:iron_axe",
+            "minecraft:diamond_axe",
+            "minecraft:netherite_axe",
+            "ars_nouveau:enchanters_gauntlet"
+          ]
+        },
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:acacia_door",
+            "minecraft:acacia_trapdoor",
+            "minecraft:acacia_sign",
+            "minecraft:acacia_hanging_sign",
+            "minecraft:acacia_fence",
+            "minecraft:acacia_fence_gate",
+            "minecraft:acacia_pressure_plate",
+            "minecraft:acacia_button",
+            "minecraft:acacia_boat",
+            "farmersdelight:acacia_cabinet"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "farmersdelight:cutting_board"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sawing",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_acacia_log"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_saw",
+            "createcasing:brass_mechanical_saw",
+            "createcasing:copper_mechanical_saw",
+            "createcasing:railway_mechanical_saw",
+            "createcasing:shadow_steel_mechanical_saw",
+            "createcasing:refined_radiance_mechanical_saw",
+            "createcasing:creative_mechanical_saw",
+            "createcasing:industrial_iron_mechanical_saw",
+            "createcasing:weathered_iron_mechanical_saw",
+            "createarscompact:source_mechanical_saw"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Sawing",
+      "outputCount": 6,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:stripped_acacia_wood"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_saw",
+            "createcasing:brass_mechanical_saw",
+            "createcasing:copper_mechanical_saw",
+            "createcasing:railway_mechanical_saw",
+            "createcasing:shadow_steel_mechanical_saw",
+            "createcasing:refined_radiance_mechanical_saw",
+            "createcasing:creative_mechanical_saw",
+            "createcasing:industrial_iron_mechanical_saw",
+            "createcasing:weathered_iron_mechanical_saw",
+            "createarscompact:source_mechanical_saw"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Automated Shaped Crafting",
+      "outputCount": 4,
+      "inputSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood"
+          ]
+        }
+      ],
+      "stationSlots": [
+        {
+          "countPerCraft": 1,
+          "options": [
+            "create:mechanical_crafter"
+          ]
+        }
+      ]
+    }
+  ]
+}
