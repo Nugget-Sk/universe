@@ -1,15 +1,15 @@
 # Using Minecraft Launcher
 
 ## Required Files
-- Download the latest version of the [modpack]()
+- Download the latest version of the [modpack](https://github.com/Nugget-Sk/universe/releases/download/v3.1/Universe.of.Origins.-.Minecraft.Launcher.zip)
 - Download Neoforge Installer for [1.21.1](https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar)
 
 # Using Prism Launcher
 
 ## Required Files
 - Download the latest version of the modpack (you only need one of the below)
-  - [No-Shiny Version]() modpack without most of the visual flare
-  - [Shiny Version]() for ALL the visual mods
+  - [No-Shiny Version](https://github.com/Nugget-Sk/universe/releases/download/v3.1/Universe.of.Origins.No-Shiny-3.1.mrpack) modpack without most of the visual flare
+  - [Shiny Version](https://github.com/Nugget-Sk/universe/releases/download/v3.1/Universe.of.Origins.Shiny-3.1.mrpack) for ALL the visual mods
 
 ## Installation
 - Click Add Instance <img width="1130" height="908" alt="image" src="https://github.com/user-attachments/assets/d7f71697-d296-4bbd-9ac2-aa51bd61c926" />
@@ -23,16 +23,16 @@
 
 ## Required Files
 - Download the latest version of the modpack (you only need one of the below)
-  - [No-Shiny Version]() modpack without most of the visual flare
-  - [Shiny Version]() for ALL the visual mods
+  - [No-Shiny Version](https://github.com/Nugget-Sk/universe/releases/download/v3.1/Universe.of.Origins.No-Shiny-3.1.mrpack) modpack without most of the visual flare
+  - [Shiny Version](https://github.com/Nugget-Sk/universe/releases/download/v3.1/Universe.of.Origins.Shiny-3.1.mrpack) for ALL the visual mods
 
 ## Installation
 [![Video](https://www.youtube.com/watch?v=ZMpZJH3GcAc)]
 
 # Updating
 - Download required files (you only need one of the below)
-  - [No-Shiny Version]() modpack without most of the visual flare
-  - [Shiny Version]() for ALL the visual mods
+  - [No-Shiny Version](https://github.com/Nugget-Sk/universe/releases/download/v3.1/Universe.of.Origins.No-Shiny-3.1.mrpack) modpack without most of the visual flare
+  - [Shiny Version](https://github.com/Nugget-Sk/universe/releases/download/v3.1/Universe.of.Origins.Shiny-3.1.mrpack) for ALL the visual mods
 - Edit your prism instance
 - Click on modrinth
 - Now select import pack
