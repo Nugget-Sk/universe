@@ -16,8 +16,10 @@
     - [Prism Launcher and Forks](https://github.com/Nugget-Sk/universe/blob/main/Universe%20of%20Origins/installation.md#using-prism-launcher) 
     - [Modrinth](https://github.com/Nugget-Sk/universe/blob/main/Universe%20of%20Origins/installation.md#modrinth) **Updating not supported**
 # FAQ & Notes
-## Important
+## Requirements
 - To run the pack you need at least 6GB of ram
+## Troubles with downloading from github
+- Join the discord it has backup download links
 ## Can i update from before 3.0?
 - No you can't you need to reinstall using the guides listed above.
 ## Archive does not contain a recognized modpack type?
